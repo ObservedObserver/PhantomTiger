@@ -1,0 +1,8 @@
+body{
+  background-color: #26282f;
+}
+#banner{
+  background-image: url("../images/jupter_surface.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
